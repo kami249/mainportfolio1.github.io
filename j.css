@@ -127,7 +127,6 @@ html::-webkit-scrollbar-thumb {
     justify-content: center;
     padding-right: 2rem;
     padding-left: 2rem;
-    max-width: 85vw;
 }
 
 .products {
@@ -719,7 +718,8 @@ html::-webkit-scrollbar-thumb {
     .home .pic {
         display: grid;
         place-items: center;
-        width: 85vw;
+        width: 100%;
+        Padding: 0px 4px;
     }
 
     .contact {
