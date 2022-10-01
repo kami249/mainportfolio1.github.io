@@ -719,7 +719,6 @@ html::-webkit-scrollbar-thumb {
         display: grid;
         place-items: center;
         width: 100%;
-        Padding: 0px 4px;
     }
 
     .contact {
