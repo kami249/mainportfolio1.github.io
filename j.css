@@ -127,6 +127,7 @@ html::-webkit-scrollbar-thumb {
     justify-content: center;
     padding-right: 2rem;
     padding-left: 2rem;
+    max-width: 85vw;
 }
 
 .products {
