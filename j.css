@@ -719,7 +719,7 @@ html::-webkit-scrollbar-thumb {
     .home .pic {
         display: grid;
         place-items: center;
-        width: 100%;
+        width: 85vw;
     }
 
     .contact {
