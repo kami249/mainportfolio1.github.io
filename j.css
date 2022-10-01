@@ -166,7 +166,7 @@ html::-webkit-scrollbar-thumb {
     text-align: center;
     border: 2px solid #343639;
     padding: 3rem;
-    height: 60vh;
+    /* height: 60vh; */
 }
 
 .products .box-container .box .icons {
@@ -501,13 +501,16 @@ html::-webkit-scrollbar-thumb {
 
     .header .navbar a {
         margin: 0 .5rem;
-        font-size: 10px;
+        font-size: 15px;
     }
     .home .content {
         text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .home .content .bio {
-        text-align: center;
+        /* text-align: center; */
         padding-left: 2px;
         padding-right: 2px;
     }
